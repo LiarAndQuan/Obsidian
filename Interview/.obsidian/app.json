@@ -1,0 +1,15 @@
+{
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "Attachments",
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "Attachments/"
+  ],
+  "foldIndent": false,
+  "showLineNumber": false,
+  "showIndentGuide": false,
+  "spellcheck": false
+}

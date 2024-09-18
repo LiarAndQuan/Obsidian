@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "0440956fe9c29692",
+    "type": "split",
+    "children": [
+      {
+        "id": "78881f7c1a9eb951",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "349e46159845d356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Java基础.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f8d396263202557",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a3f73725cc28537",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6347f1e76ca64cdd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6abdb55bbb688dbd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#②",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcaefdd7cf5bae3f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "d9f65a6980872d21",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3ad40f12c6bd128",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f32c14512a78537",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Java基础.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0ca039378993a55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Java基础.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "987782680c8bf5fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "12b198f0bf6c5df5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Java基础.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "349e46159845d356",
+  "lastOpenFiles": [
+    "2. Java集合.md",
+    "3. IO流.md",
+    "5. JVM.md",
+    "秋招.md",
+    "难点.md",
+    "Attachments/Pasted image 20240917171233.png",
+    "4. JUC.md",
+    "描述.md",
+    "柒夭日志：分库分表篇.md",
+    "Attachments/Pasted image 20240917141448.png",
+    "Attachments/Pasted image 20240917135336.png",
+    "Attachments/Pasted image 20240916235736.png",
+    "Attachments/Pasted image 20240916235709.png",
+    "Attachments/Pasted image 20240916235352.png",
+    "Attachments/Pasted image 20240916233213.png",
+    "Attachments/Pasted image 20240916233144.png",
+    "Attachments/Pasted image 20240916233124.png",
+    "Attachments/Pasted image 20240916231218.png",
+    "13. 12306业务梳理.md",
+    "12. 计网.md",
+    "11. OS.md",
+    "10. RocketMQ.md",
+    "9. Mybatis.md",
+    "8. Spring&SpringBoot.md",
+    "7. Redis.md",
+    "6. Mysql.md",
+    "1. Java基础.md",
+    "雪花.md",
+    "未命名.md",
+    "淘天一面.md",
+    "设计模式.md",
+    "基础开发组件.md",
+    "分库分表.md",
+    "已投递.md",
+    "14. 短链接业务梳理.md",
+    "未命名",
+    "未命名.canvas",
+    "Attachments/Images/函数式编程.assets",
+    "Attachments/Images/img",
+    "Attachments/Images",
+    "Attachments/Images/image",
+    "Attachments",
+    "12306"
+  ]
+}
